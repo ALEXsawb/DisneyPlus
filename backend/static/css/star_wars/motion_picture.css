@@ -1,0 +1,15 @@
+.data{
+    background-color: black;
+    width: 100%;
+    padding: 50px;
+}
+
+.data h1, .data p{
+    color: #fff;
+}
+
+.data p{
+    width: 50%;
+    padding-bottom: 40px;
+}
+

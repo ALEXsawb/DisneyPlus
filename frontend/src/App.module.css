@@ -1,0 +1,25 @@
+.table {
+    display: grid;
+    width: 60%;
+    justify-self: center;
+    align-self: center;
+    margin: auto;
+}
+
+.row{
+    min-height: 30px;
+    border-radius: 5px;
+    background-color: lightgray;
+    padding: 3px 5px;
+    margin-bottom: 2px;
+    display: grid;
+    grid-template-rows: 1fr auto;
+}
+
+.user_data{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.visits {
+}

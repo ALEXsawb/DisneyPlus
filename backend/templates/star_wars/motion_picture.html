@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+
+{% block text_on_img %}
+    <div class="text_on_img">
+        <h1>{{title}}</h1>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="data">
+        <h1>Motion picture data</h1>
+        <hr>
+        {% for content_ in content|sort(attribute='id')%}
+            <p>{{content_.text}}</p>
+        {% endfor %}
+    </div>
+{% endblock %}

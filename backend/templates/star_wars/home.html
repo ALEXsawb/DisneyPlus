@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+
+{% block text_on_img %}
+    <div class="text_on_img">
+        <h1>Disney +</h1>
+    <p>
+       Disney+ is an American streaming service for on-demand televised and cinematic content from Walt Disney
+       Direct-to-Consumer & International, a subsidiary of The Walt Disney Company. It launched on November 12,
+       2019.
+    </p>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="history">
+        <div class="text">
+            <h1 id="history">History</h1>
+            <hr>
+            {% for history_part in history|sort(attribute='id')%}
+                <h2>{{history_part.header}}</h2>
+                <p>{{history_part.text}}</p>
+            {% endfor %}
+        </div>
+        <div class="SW-image">
+            <img src="../../static/images/star_wars/mandalorian-and-child.png">
+        </div>
+    </div>
+    <div class="content" id="content">
+        <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Format</th>
+                <th scope="col">Data</th>
+                <th scope="col">Notes</th>
+              </tr>
+            </thead>
+            <tbody>
+                {% for content_data in content %}
+                    <tr>
+                      <th scope="row">{{content_data.id}}</th>
+                      <td><a class="link" href="{{ url_for('motion_picture', slug=content_data.slug) }}">{{content_data.title}}</a></td>
+                      <td>{{content_data.format}}</td>
+                      <td>{{content_data.date}}</td>
+                      <td>{{content_data.notes}}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

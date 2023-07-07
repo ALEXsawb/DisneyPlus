@@ -1,0 +1,39 @@
+services:
+  mongodb:
+    container_name: mongodb
+    image: mongo
+    restart: always
+    volumes:
+      - mongodb_data:/data/db
+    ports:
+      - 27017:27017
+
+  mongo-seed:
+    depends_on:
+      - mongodb
+    build:
+      context: ./
+      dockerfile: mongo-seed.dockerfile
+
+  fastapi:
+    container_name: fastAPI
+    build:
+      context: ./backend
+      dockerfile: fastAPI.dockerfile
+    depends_on:
+      - mongodb
+    ports:
+      - 8000:8000
+    env_file:
+      - .env
+
+  react:
+    build:
+      context: ./frontend
+      dockerfile: react.dockerfile
+    volumes:
+      - './frontend:/frontend'
+    ports:
+      - 3000:3000
+volumes:
+  mongodb_data:

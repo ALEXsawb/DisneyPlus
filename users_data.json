@@ -1,0 +1,616 @@
+[{
+  "_id": {
+    "$oid": "64a424670178c71ad7d633a1"
+  },
+  "email": "sawbad@gmail.com",
+  "password": "$2b$12$KKauBM.g1ejrCGqd/xF19uZDj3x2.0dC7RWOskV5HbMbim2diMpWi",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a427c85fb42bb4b85866f0"
+  },
+  "email": "sssss@gmail.com",
+  "password": "$2b$12$M80OVQmMFuPdHKajCVhzzum46NaZTPaS.J/5ibS0H/1kwgCL1Iw1O",
+  "visits": [
+    "http://127.0.0.1:8080/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a47c01b3aeeffa7e2d74a7"
+  },
+  "email": "sss@gmail.com",
+  "password": "$2b$12$qkqY0I7NegD7J5/NyzuwOe9q4zgbcBTJpJBXT4RyrGpY8JADC5n1O",
+  "visits": [
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars",
+    "http://127.0.0.1:8080/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8080/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8080/star_wars#history",
+    "http://127.0.0.1:8080/star_wars/motions/andor",
+    "http://127.0.0.1:8080/star_wars#content",
+    "http://127.0.0.1:8080/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8080/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8080/star_wars#history",
+    "http://127.0.0.1:8080/star_wars/motions/andor",
+    "http://127.0.0.1:8080/star_wars/motions/andor",
+    "http://127.0.0.1:8080/star_wars#content",
+    "http://127.0.0.1:8080/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8080/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8080/star_wars#history",
+    "http://127.0.0.1:8080/star_wars/motions/andor",
+    "http://127.0.0.1:8080/star_wars#history",
+    "http://127.0.0.1:8080/star_wars/motions/andor",
+    "http://127.0.0.1:8080/star_wars#history",
+    "http://127.0.0.1:8080/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a59f0384237efe18d46d00"
+  },
+  "email": "ssss@gmail.com",
+  "password": "$2b$12$flkP5zywhthTBfDqNKUkjuD96EkmdD6UP/ZN0KqYNaTYjEakwgBda",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars",
+    "http://127.0.0.1:8000/star_wars",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a689608c34cefc21f6fbcc"
+  },
+  "email": "a@gmail.com",
+  "password": "$2b$12$Gbbn5zdghdv5j2EtuInF9ejii9CZ/xlnijoRVvvlhbgpOptzuZ272",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a6896e8c34cefc21f6fbce"
+  },
+  "email": "aa@gmail.com",
+  "password": "$2b$12$uHFbrU2ma3g9yD5/8fo4VehuW.WchxvY/8fmIXfdl91Uc0Cq6jnKm",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a689818c34cefc21f6fbd0"
+  },
+  "email": "aaa@gmail.com",
+  "password": "$2b$12$k/pvAV3cMX/ZcrxlWjxln./ZsytnzeENX4xbFOvj0bjqRd1Zpy3oa",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a6898b8c34cefc21f6fbd2"
+  },
+  "email": "aaaa@gmail.com",
+  "password": "$2b$12$ztJM7tV0hxjLn2tfWXVAA.sdl1X9tyxgjl8Y4fxDizSW6kE8npFXC",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a689978c34cefc21f6fbd4"
+  },
+  "email": "aaaaa@gmail.com",
+  "password": "$2b$12$xQpmsd1ZxvtmyRxqnePSAu0pbU95leSjhgqcgo/4PpZm8yPkitdAe",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a689a28c34cefc21f6fbd6"
+  },
+  "email": "aaaaaa@gmail.com",
+  "password": "$2b$12$sdesbvktjZsl7QlT9QhW2OhyxRM0UtyP882tbVrBWOXw4h0rbepK.",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a689b28c34cefc21f6fbd8"
+  },
+  "email": "afa@gmail.com",
+  "password": "$2b$12$rw/6qmJhPmBV97EQbmYUv.ETRLcIhflbP8jfXpw.9jAQ5Q7vC6Ysm",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a69160bf289d6561664459"
+  },
+  "email": "awa@gmail.com",
+  "password": "$2b$12$bF1/hths9M5kqFWRXDMEAOHubGx/FV5kKEO2fYyCnh3.77DcLLOei",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a69190ad4a08f2831aff9f"
+  },
+  "email": "ada@gmail.com",
+  "password": "$2b$12$eUsyEUKQp9EqgdMXXWwwhuMLEILG4Up2Wfgz3B/s4fbdO5GBZjqn.",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a691e345e59677778b6794"
+  },
+  "email": "sssssa@gmail.com",
+  "password": "$2b$12$fufcYxg9RVxRU5XieYaGwe/w8Epo3aCkmhqp6ZteZG9z8QLnhFNXq",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a69242b9b224aaa9563fa5"
+  },
+  "email": "e@gmail.com",
+  "password": "$2b$12$UIhGAWhW167oU65WXCELg.tkxUzSMzOnShHfTofdzK7Eo.tZDjLNK",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a69267e3fb02d7f728e683"
+  },
+  "email": "dadd@gmail.com",
+  "password": "$2b$12$1G5XV7M5tVDbOkDbpWMd0uCgWkmjMt78K.rrOuu/32rxht6lOnGJa",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a692ec2469928ea82a5aca"
+  },
+  "email": "sqss@gmail.com",
+  "password": "$2b$12$n/nEbwcOhpNd4hmu2cIpGeMiL3KhSjrMX/CaY1qZ1CbdzNlF0YkeC",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a69404a5550f9a0f36d825"
+  },
+  "email": "t@gmail.com",
+  "password": "$2b$12$QBH8gFMRehNMbx5NQMzaL.v7roOeJ6XzkXVgfebTvrzWIH7iAQiT2",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a6942aa5550f9a0f36d829"
+  },
+  "email": "dss@gmail.com",
+  "password": "$2b$12$GMZgXYPjKkIUnGpmJy.lSeV4W1fRmGsIaiH4D6bXtmB.jqU52zHDu",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a69499a5550f9a0f36d82b"
+  },
+  "email": "rt@gmail.com",
+  "password": "$2b$12$bx9srXFFYfrtJtlmrV8Rwu349k95xNGdtoP6dFD9GyqzqYOYeGQgi",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a694d3a5550f9a0f36d82d"
+  },
+  "email": "rtt@gmail.com",
+  "password": "$2b$12$ZLyaQ8TZgPmc/2F8ogJq/.m52KDC1X1ECvWCi/XYq.jnsHrBOHl2e",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars#history",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor",
+    "http://127.0.0.1:8000/star_wars#content",
+    "http://127.0.0.1:8000/star_wars/motions/andor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a6adeda484de817b61be06"
+  },
+  "email": "sаа@gmail.com",
+  "password": "$2b$12$kKqzCKrPp2KboPiEMCVpIeuRXi/tbD6bXiFzAxiv0QM890We1agrq",
+  "visits": [
+    "http://127.0.0.1:8000/star_wars",
+    "http://127.0.0.1:8000/star_wars/motions/boba-fett",
+    "http://127.0.0.1:8000/star_wars",
+    "http://127.0.0.1:8000/star_wars/motions/obi-wan",
+    "http://127.0.0.1:8000/star_wars",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian",
+    "http://127.0.0.1:8000/star_wars",
+    "http://127.0.0.1:8000/star_wars/motions/mandalorian"
+  ]
+}]

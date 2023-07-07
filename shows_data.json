@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "64a2d0fa266af88ae0d35798"
+  },
+  "history": [
+    {
+      "id": 1,
+      "header": "Announcement",
+      "text": "Disney+ was first announced in late 2017, with a plan of producing original film and television material in addition to catalog content. Disney CEO Bob Iger revealed that \"a few\" Star Wars series were among the content that would be produced for the service. Some of these are The Mandalorian, a revival season of Cartoon Network's animated series Star Wars: The Clone Wars, as well as the previous seasons, and a television series centered on Cassian Jeron Andor. In May 2019, Iger said that a third live-action show may premiere on the service sometime prior to the release of the 2023 Star Wars film, which was later revealed to be Obi-Wan Kenobi centered on Obi-Wan Kenobi. A year later, it was announced that a fourth animated show focusing on Clone Force 99, named Star Wars: The Bad Batch, will debut on the service sometime in 2021. According to Variety, all of the service's original content will have \"broad family appeal.\""
+    },
+    {
+      "id": 2,
+      "header": "2019 launch",
+      "text": "The seventh season of The Clone Wars animated series premiered on Disney+ on February 21, 2020. It concluded on May 4, 2020. The second season of The Mandalorian premiered on Disney+ on October 30, 2020 The second season concluded on December 18, 2020.\n                On November 17, 2020, the animated film The LEGO Star Wars Holiday Special aired on Disney+. In December of 2020, Disney announced that roughly ten more Star Wars series would be added to the service in the coming years."
+    },
+    {
+      "id": 3,
+      "header": "2020 launch",
+      "text": "On April 2, 2021, Disney+ began streaming Caravan of Courage: An Ewok Adventure, Ewoks: The Battle for Endor, the Ewoks animated series, Genndy Tartakovsky's Star Wars: Clone Wars animated series, and the animated The Story of the Faithful Wookiee segment from The Star Wars Holiday Special under the Star Wars Vintage Collection banner. StarWars.com also confirmed that the animated Star Wars: Droids: The Adventures of R2-D2 and C-3PO would join the Vintage Collection later in 2021, appearing first in the UK and Ireland on June 18.\n                \nThe first season of the animated series Star Wars: The Bad Batch first aired on Disney+ on May 4, 2021. The first season concluded on August 13. On May 4, the television special Star Wars Biomes premiered on Disney+. It featured various locations from the Star Wars films as well as The Mandalorian.\n                \nThe anime series Star Wars: Visions premiered on Disney+ on September 22, 2021. On October 2, 2021, the animated film LEGO Star Wars Terrifying Tales was released on Disney+."
+    },
+    {
+      "id": 4,
+      "header": "2022 releases",
+      "text": "The live-action series The Book of Boba Fett was first released on December 29, 2021. It concluded on February 9, 2022. The animated series LEGO Star Wars: The Freemaker Adventures was removed from Disney+ globally on January 1, 2022. The live-action Obi-Wan Kenobi TV series was released on May 25, 2022. The documentary series Light & Magic, which looks at the history of Lucasfilm subsidiary Industrial Light & Magic, was released on July 27, 2022. The animated film LEGO Star Wars Summer Vacation premiered on August 5, 2022. The first season of the live-action Andor TV series premiered on September 21, 2022. Star Wars: Tales of the Jedi was released on October 26, 2022."
+    },
+    {
+      "id": 5,
+      "header": "2023 releases",
+      "text": "The second season of Star Wars: The Bad Batch was released on January 4, 2023. The third season of The Mandalorian premiered on March 1, 2023."
+    }
+  ],
+  "show": "StarWars",
+  "content": [
+    {
+      "id": 1,
+      "title": "The Mandalorian",
+      "date": "12.11.2019",
+      "format": "Live-action web-TV series",
+      "notes": "4 seasons",
+      "content": [
+        {
+          "id": 1,
+          "text": "The Mandalorian, alternatively titled as Star Wars: The Mandalorian,[18] is a live-action space western Star Wars television series developed by Lucasfilm. The series takes place about five years after the events of the 1983 film Star Wars: Episode VI Return of the Jedi and airs exclusively on Disney's streaming service, Disney+, which launched on November 12, 2019. Jon Favreau is the creator, writer, and executive producer of the series. Directors include Dave Filoni, Deborah Chow, Rick Famuyiwa, Bryce Dallas Howard, and Taika Waititi."
+        },
+        {
+          "id": 2,
+          "text": "Season One episodes debuted on Fridays at 08:01 UTC (3:01 AM EST), with the exception of the first and seventh episodes of that season. After the first season's conclusion, an eight-episode behind the scenes series was released starting May 2020, titled Disney Gallery: The Mandalorian. On October 30, 2020, the second season premiered on Disney+. Season Two episodes debuted on Fridays at 08:01 UTC (3:01 AM EST). Two Disney Gallery: The Mandalorian specials about the making of the second season were released afterwards."
+        },
+        {
+          "id": 3,
+          "text": "The series The Book of Boba Fett premiered on December 29, 2021, and featured several characters from the The Mandalorian after the events of the second season. The third season premiered on March 1, 2023, and a fourth season is currently being written by Jon Favreau."
+        }
+      ],
+      "slug": "mandalorian",
+      "path_to_img": "mandalorian.jpg"
+    },
+    {
+      "title": "Andor",
+      "id": 2,
+      "date": "21.09.2022",
+      "format": "Live-action web-TV series",
+      "notes": "2 seasons",
+      "content": [
+        {
+          "id": 1,
+          "text": "The Andor series will explore a new perspective from the Star Wars galaxy, focusing on Cassian Andor's journey to discover the difference he can make. The series brings forward the tale of the burgeoning rebellion against the Empire and how people and planets became involved. It's an era filled with danger, deception and intrigue where Cassian will embark on the path that is destined to turn him into a rebel hero."
+        },
+        {
+          "id": 2,
+          "text": "Talks for a television series focused on Cassian Jeron Andor, Diego Luna's character from the 2016 Star Wars Anthology film Rogue One: A Star Wars Story, began before the Anthology film was released, though Luna had doubts that it would happen. In February 2018, Disney CEO Bob Iger revealed that \"a few\" Star Wars live-action series were in development for Disney's streaming service. The series was officially announced by Iger during a Disney quarterly earnings call on November 8, 2018."
+        },
+        {
+          "id": 3,
+          "text": "On November 30, it was reported that The Americans executive producer Stephen Schiff was tapped to serve as a showrunner while Moana writer Jared Bush was revealed to have originated the project by writing a pilot script and a series bible. According to Production Weekly, the series was scheduled to begin production in October 2019. On July 11, 2019, Rick Famuyiwa was reported to be in talks to direct an undisclosed amount of episodes for the series, with filming scheduled to begin on October 7. On October 15, 2019, Variety reported that Rogue One co-writer Tony Gilroy would be writing the pilot for the series in addition to directing multiple episodes."
+        }
+      ],
+      "slug": "andor",
+      "path_to_img": "andor.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Obi-Wan Kenobi",
+      "date": "27.05.2022",
+      "format": "Live-action web-TV series",
+      "notes": "Limited series",
+      "content": [
+        {
+          "id": 1,
+          "text": "Obi-Wan Kenobi, marketed as Star Wars: Obi-Wan Kenobi, is a live-action television miniseries developed by Lucasfilm. It premiered on Disney+ on May 26, 2022 and concluded on June 22, 2022. The series features Ewan McGregor and Hayden Christensen reprising their roles from the Star Wars prequel trilogy, respectively Obi-Wan Kenobi and Darth Vader. It takes place ten years after Star Wars: Episode III Revenge of the Sith."
+        },
+        {
+          "id": 2,
+          "text": "During the reign of the Galactic Empire, former Jedi Master Obi-Wan Kenobi embarks on a crucial mission. Kenobi must confront allies turned enemies and face the wrath of the Empire."
+        },
+        {
+          "id": 3,
+          "text": "In 2013, news was released that The Walt Disney Company-Lucasfilm Ltd. brand was developing several theatrical pictures separate from the core, episodic Star Wars saga, which were later denominated as the Star Wars Anthology Series line. Talks about a potential Obi-Wan Kenobi-centric movie as part of the Anthology series arose, and Ewan McGregor, the actor who played Kenobi in the Star Wars prequel trilogy, was approached to reprise the role. However, McGregor knew about the project as far as back in 2015, and until 2019, he was forced to withhold information in interviews."
+        }
+      ],
+      "slug": "obi-wan",
+      "path_to_img": "obi-wan.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Book of Boba Fett",
+      "date": "04.05.2022",
+      "format": "Documentary special",
+      "content": [
+        {
+          "id": 1,
+          "text": "The Book of Boba Fett is a live-action television series that focuses on the character Boba Fett. Its first episode was released on December 29, 2021. It was first teased, with both its title and release window, in a post-credits sequence of the season two finale of The Mandalorian."
+        },
+        {
+          "id": 2,
+          "text": "The Book of Boba Fett, a thrilling Star Wars adventure, finds legendary bounty hunter Boba Fett and mercenary Fennec Shand navigating the galaxy's underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate."
+        },
+        {
+          "id": 3,
+          "text": "Boba Fett made his live-action return to Star Wars in The Mandalorian's \"Chapter 14: The Tragedy,\" an episode directed by Robert Rodriguez. Series executive producer Jon Favreau originally approached Rodriguez to direct the important episode because he loved Rodriguez's interpretation of the character. He also decided to pitch to Rodriguez and the studio the idea of creating more episodes centering around the character. Although Rodriguez usually avoided franchises, that changed with Boba, as Rodriguez felt that he was an underdeveloped character and that it was as if he was an original character Rodriguez could expand."
+        }
+      ],
+      "slug": "boba-fett",
+      "path_to_img": "boba-fett.jpeg"
+    }
+  ]
+}]

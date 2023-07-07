@@ -1,0 +1,27 @@
+.history, .content{
+    width: 100%;
+    background-color: black;
+    color: #ffffff;
+}
+
+.history{
+    display: grid;
+    padding: 50px 0 50px 50px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.content{
+    padding: 50px 50px 50px 50px;
+}
+
+.history.text h1{
+    margin-bottom: 20px;
+}
+
+.history.text h2{
+    margin-bottom: 10px;
+}
+
+.history.text p{
+    margin-bottom: 40px;
+}

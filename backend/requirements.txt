@@ -1,0 +1,11 @@
+jinja2
+motor
+fastapi
+uvicorn[standard]
+fastapi_jwt_auth
+pydantic
+pydantic[email]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+pymongo
