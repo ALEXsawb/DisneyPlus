@@ -10,6 +10,7 @@ from backend.StarWars.views import star_wars
 from backend.admin.views import admin
 from backend.auth.views import auth
 from backend.db import create_user_indexed_fields, create_show_indexed_fields
+from backend.download_data_to_DB import load_data_to_DB
 
 app = FastAPI()
 
@@ -43,3 +44,4 @@ async def view_exception_NOT_FOUND(request, exc):
 async def connect_and_config_db():
     await create_user_indexed_fields()
     await create_show_indexed_fields()
+    await load_data_to_DB()
