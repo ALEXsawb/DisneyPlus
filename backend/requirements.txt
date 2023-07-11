@@ -3,7 +3,7 @@ motor
 fastapi
 uvicorn[standard]
 fastapi_jwt_auth
-pydantic
+pydantic==1.10.4
 pydantic[email]
 python-multipart
 python-jose[cryptography]
